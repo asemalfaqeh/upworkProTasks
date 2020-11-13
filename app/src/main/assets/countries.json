@@ -1,0 +1,202 @@
+{
+  "algeria": {
+    "name": "الجزائر",
+    "en_name": "Algeria",
+    "native_name": "الجزائر",
+    "capital": "الجزائر",
+    "en_capital": "Algiers",
+    "alpha_2": "DZ",
+    "alpha_3": "DZA",
+    "phone_code": "213"
+  },
+  "bahrain": {
+    "name": "البحرين",
+    "en_name": "Bahrain",
+    "native_name": "‏البحرين",
+    "capital": "المنامة",
+    "en_capital": "Manama",
+    "alpha_2": "BH",
+    "alpha_3": "BHR",
+    "phone_code": "973"
+  },
+  "egypt": {
+    "name": "مصر",
+    "en_name": "Egypt",
+    "native_name": "مصر‎",
+    "capital": "القاهرة",
+    "en_capital": "Cairo",
+    "alpha_2": "EG",
+    "alpha_3": "EGY",
+    "phone_code": "20"
+  },
+  "iraq": {
+    "name": "العراق",
+    "en_name": "Iraq",
+    "native_name": "العراق",
+    "capital": "بغداد",
+    "en_capital": "Baghdad",
+    "alpha_2": "IQ",
+    "alpha_3": "IRQ",
+    "phone_code": "964"
+  },
+  "jordan": {
+    "name": "الأردن",
+    "en_name": "Jordan",
+    "native_name": "الأردن",
+    "capital": "عمان",
+    "en_capital": "Amman",
+    "alpha_2": "JO",
+    "alpha_3": "JOR",
+    "phone_code": "962"
+  },
+  "libya": {
+    "name": "ليبيا",
+    "en_name": "Libya",
+    "native_name": "‏ليبيا",
+    "capital": "طرابلس",
+    "en_capital": "Tripoli",
+    "alpha_2": "LY",
+    "alpha_3": "LBY",
+    "phone_code": "218"
+  },
+  "morocco": {
+    "name": "المغرب",
+    "en_name": "Morocco",
+    "native_name": "المغرب",
+    "capital": "الرباط",
+    "en_capital": "Rabat",
+    "alpha_2": "MA",
+    "alpha_3": "MAR",
+    "phone_code": "212"
+  },
+  "oman": {
+    "name": "عمان",
+    "en_name": "Oman",
+    "native_name": "عمان",
+    "capital": "مسقط",
+    "en_capital": "Muscat",
+    "alpha_2": "OM",
+    "alpha_3": "OMN",
+    "phone_code": "968"
+  },
+  "qatar": {
+    "name": "قطر",
+    "en_name": "Qatar",
+    "native_name": "قطر",
+    "capital": "الدوحة",
+    "en_capital": "Doha",
+    "alpha_2": "QA",
+    "alpha_3": "QAT",
+    "phone_code": "974"
+  },
+  "somalia": {
+    "name": "الصومال",
+    "en_name": "Somalia",
+    "native_name": "الصومال",
+    "capital": "مقديشو",
+    "en_capital": "Mogadishu",
+    "alpha_2": "SO",
+    "alpha_3": "SOM",
+    "phone_code": "252"
+  },
+  "sudan": {
+    "name": "السودان",
+    "en_name": "Sudan",
+    "native_name": "السودان",
+    "capital": "الخرطوم",
+    "en_capital": "Khartoum",
+    "alpha_2": "SD",
+    "alpha_3": "SDN",
+    "phone_code": "249"
+  },
+  "syria": {
+    "name": "سوريا",
+    "en_name": "Syria",
+    "native_name": "سوريا",
+    "capital": "دمشق",
+    "en_capital": "Damascus",
+    "alpha_2": "SY",
+    "alpha_3": "SYR",
+    "phone_code": "963"
+  },
+  "tunisia": {
+    "name": "تونس",
+    "en_name": "Tunisia",
+    "native_name": "تونس",
+    "capital": "تونس",
+    "en_capital": "Tunis",
+    "alpha_2": "TN",
+    "alpha_3": "TUN",
+    "phone_code": "216"
+  },
+  "unitedarabemirates": {
+    "name": "الإمارات العربية المتحدة",
+    "en_name": "United Arab Emirates",
+    "native_name": "دولة الإمارات العربية المتحدة",
+    "capital": "أبو ظبي",
+    "en_capital": "Abu Dhabi",
+    "alpha_2": "AE",
+    "alpha_3": "ARE",
+    "phone_code": "971"
+  },
+  "yemen": {
+    "name": "اليمن",
+    "en_name": "Yemen",
+    "native_name": "اليَمَن",
+    "capital": "صنعاء",
+    "en_capital": "Sana'a",
+    "alpha_2": "YE",
+    "alpha_3": "YEM",
+    "phone_code": "967"
+  },
+  "palestine": {
+    "name": "فلسطين",
+    "en_name": "Palestine",
+    "native_name": "فلسطين",
+    "capital": "القدس",
+    "en_capital": "Jerusalem",
+    "alpha_2": "PS",
+    "alpha_3": "PSE",
+    "phone_code": "970"
+  },
+  "kuwait": {
+    "name": "الكويت",
+    "en_name": "Kuwait",
+    "native_name": "الكويت",
+    "capital": "مدينة الكويت",
+    "en_capital": "Kuwait City",
+    "alpha_2": "KW",
+    "alpha_3": "KWT",
+    "phone_code": "965"
+  },
+  "mauritania": {
+    "name": "موريتانيا",
+    "en_name": "Mauritania",
+    "native_name": "موريتانيا",
+    "capital": "نواكشوط",
+    "en_capital": "Nouakchott",
+    "alpha_2": "MR",
+    "alpha_3": "MRT",
+    "phone_code": "222"
+  },
+  "lebanon": {
+    "name": "لبنان",
+    "en_name": "Lebanon",
+    "native_name": "لبنان",
+    "capital": "بيروت",
+    "en_capital": "Beirut",
+    "alpha_2": "LB",
+    "alpha_3": "LBN",
+    "phone_code": "961"
+  },
+  "saudiarabia": {
+    "name": "المملكة العربية السعودية",
+    "en_name": "Saudi Arabia",
+    "native_name": "العربية السعودية",
+    "capital": "الرياض",
+    "en_capital": "Riyadh",
+    "alpha_2": "SA",
+    "alpha_3": "SAU",
+    "phone_code": "966"
+  }
+}

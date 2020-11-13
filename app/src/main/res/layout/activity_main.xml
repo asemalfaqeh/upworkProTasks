@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.activities.MainActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="16dp"
+            android:gravity="center"
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/countries_cities"
+                android:textStyle="bold"
+                android:id="@+id/btn_select_countries"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/currency_converter"
+                android:textStyle="bold"
+                android:id="@+id/btn_currency_converter"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="@string/youtube_player"
+                android:id="@+id/btn_youtube_player"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/select_cards"
+                android:textStyle="bold"
+                android:id="@+id/btn_s_select_cards"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/select_multiple_cards"
+                android:textStyle="bold"
+                android:id="@+id/btn_m_select_cards"/>
+
+
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+</layout>

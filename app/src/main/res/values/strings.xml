@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UpWorkTasks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="countries">Countries</string>
+    <string name="countries_cities">Countries and Cities</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="youtube_player">Youtube Player</string>
+    <string name="select_cards">Select Cards</string>
+    <string name="select_multiple_cards">Select Multiple Cards</string>
+    <string name="from_usd">The value of the dollar in local currency</string>
+
+</resources>

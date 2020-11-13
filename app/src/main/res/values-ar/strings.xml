@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UpWorkTasks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="countries">البلدان</string>
+    <string name="countries_cities">البلدان والمدن</string>
+    <string name="currency_converter">تحويل العملات</string>
+    <string name="youtube_player">مشغل اليوتيوب</string>
+    <string name="select_cards">تحديد بطاقة</string>
+    <string name="select_multiple_cards">تحديد متعدد للبطاقات</string>
+    <string name="from_usd">قيمة الدولار بالعملة المحلية</string>
+
+</resources>
